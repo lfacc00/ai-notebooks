@@ -132,3 +132,7 @@ dmypy.json
 titanic/
 titanic.zip
 sub.csv
+
+# Images
+*.jpg
+will_ferrel_or_not/
